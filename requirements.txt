@@ -1,0 +1,8 @@
+#
+####### requirements.txt #######
+#
+###### Requirements ######
+opencv-python
+youtube_dl
+#
+
